@@ -1,0 +1,4 @@
+Important Notes about this Topic
+
+- If the problem can be solved in a single height traversal, then it
+  is better to solve it iteratively, owing to its better TC.
